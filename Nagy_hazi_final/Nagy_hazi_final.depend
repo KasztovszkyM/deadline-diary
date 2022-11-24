@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1669290150 source:c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\file.c
+	"ujevent.h"
+	"file.h"
+	"lista.h"
+
+1669290513 c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\ujevent.h
+	<stdio.h>
+	<stdlib.h>
+
+1669290079 c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\file.h
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"ujevent.h"
+
+1669290527 c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ujevent.h"
+
+1669290081 source:c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\ujevent.c
+	"ujevent.h"
+
+1669290304 source:c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\lista.c
+	"lista.h"
+
+1669291840 source:c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"ujevent.h"
+	"file.h"
+	"lista.h"
+	"debugmalloc.h"
+	<windows.h>
+
+1666950933 c:\suli\a prog házi\nagyhazi_final\nagy_hazi_final\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
